@@ -64,8 +64,8 @@ clicked and the markers that belong to the same country as clicked marker.
 </div>
 
 <div float="left">
-  <img width="500" alt="all airports" src="https://user-images.githubusercontent.com/72078274/104127002-88f5c380-5357-11eb-9e5f-eadc0a486a52.JPG">
-  <img width="500" alt="hidden airports" src="https://user-images.githubusercontent.com/72078274/104127004-8abf8700-5357-11eb-95fb-64ecc1b359de.JPG">
+  <img width="400" alt="all airports" src="https://user-images.githubusercontent.com/72078274/104127002-88f5c380-5357-11eb-9e5f-eadc0a486a52.JPG">
+  <img width="400" alt="hidden airports" src="https://user-images.githubusercontent.com/72078274/104127004-8abf8700-5357-11eb-95fb-64ecc1b359de.JPG">
 </div>
 
 
@@ -74,4 +74,4 @@ clicked and the markers that belong to the same country as clicked marker.
 This map adds colours to different countries based on life expectancy.
 No extensions added.
 
-<img width="500" alt="life-expectancy" src="https://user-images.githubusercontent.com/72078274/104126990-767b8a00-5357-11eb-90ce-f4264363f454.JPG">
+<img width="400" alt="life-expectancy" src="https://user-images.githubusercontent.com/72078274/104126990-767b8a00-5357-11eb-90ce-f4264363f454.JPG">
