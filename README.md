@@ -33,8 +33,8 @@ map.
 </div>
 
 <div float="left">
-  <img width="500" alt="all earthquakes" src="https://user-images.githubusercontent.com/72078274/104127034-bfcbd980-5357-11eb-86f7-49906fbcf21e.JPG"> 
-  <img width="500" alt="cities with population greated than 1m hidden" src="https://user-images.githubusercontent.com/72078274/104127041-c9edd800-5357-11eb-88d8-91516cf078e9.JPG"> 
+  <img width="400" alt="all earthquakes" src="https://user-images.githubusercontent.com/72078274/104127034-bfcbd980-5357-11eb-86f7-49906fbcf21e.JPG"> 
+  <img width="400" alt="cities with population greated than 1m hidden" src="https://user-images.githubusercontent.com/72078274/104127041-c9edd800-5357-11eb-88d8-91516cf078e9.JPG"> 
 </div>
 
 
@@ -44,8 +44,8 @@ map.
 </div>
 
 <div float="left">
-  <img width="500" alt="pop up with average magnitude" src="https://user-images.githubusercontent.com/72078274/104127038-c65a5100-5357-11eb-87e5-5050239680cf.JPG"> 
-  <img width="500" alt="pop up with city and country name only" src="https://user-images.githubusercontent.com/72078274/104127040-c78b7e00-5357-11eb-9775-f1711f53e3e6.JPG"> 
+  <img width="400" alt="pop up with average magnitude" src="https://user-images.githubusercontent.com/72078274/104127038-c65a5100-5357-11eb-87e5-5050239680cf.JPG"> 
+  <img width="400" alt="pop up with city and country name only" src="https://user-images.githubusercontent.com/72078274/104127040-c78b7e00-5357-11eb-9775-f1711f53e3e6.JPG"> 
 </div>
    
 
