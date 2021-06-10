@@ -32,7 +32,7 @@ map.
 <p>Right Image: cities with population greated than 1m hidden.</p>
 </div>
 
-<div float="left">
+<div float="left" style="text-align:center">
   <img width="400" alt="all earthquakes" src="https://user-images.githubusercontent.com/72078274/104127034-bfcbd980-5357-11eb-86f7-49906fbcf21e.JPG"> 
   <img width="400" alt="cities with population greated than 1m hidden" src="https://user-images.githubusercontent.com/72078274/104127041-c9edd800-5357-11eb-88d8-91516cf078e9.JPG"> 
 </div>
@@ -43,7 +43,7 @@ map.
 <p>Right Image: pop up with city and country name only.</p>
 </div>
 
-<div float="left">
+<div float="left" style="text-align:center">
   <img width="400" alt="pop up with average magnitude" src="https://user-images.githubusercontent.com/72078274/104127038-c65a5100-5357-11eb-87e5-5050239680cf.JPG"> 
   <img width="400" alt="pop up with city and country name only" src="https://user-images.githubusercontent.com/72078274/104127040-c78b7e00-5357-11eb-9775-f1711f53e3e6.JPG"> 
 </div>
@@ -63,7 +63,7 @@ clicked and the markers that belong to the same country as clicked marker.
 <p>Right Image: only one country airports displayed when clicked on the airport marker belonging to that country.</p>
 </div>
 
-<div float="left">
+<div float="left" style="text-align:center">
   <img width="400" alt="all airports" src="https://user-images.githubusercontent.com/72078274/104127002-88f5c380-5357-11eb-9e5f-eadc0a486a52.JPG">
   <img width="400" alt="hidden airports" src="https://user-images.githubusercontent.com/72078274/104127004-8abf8700-5357-11eb-95fb-64ecc1b359de.JPG">
 </div>
@@ -74,4 +74,4 @@ clicked and the markers that belong to the same country as clicked marker.
 This map adds colours to different countries based on life expectancy.
 No extensions added.
 
-<img width="400" alt="life-expectancy" src="https://user-images.githubusercontent.com/72078274/104126990-767b8a00-5357-11eb-90ce-f4264363f454.JPG">
+<img width="400" style="text-align:center" alt="life-expectancy" src="https://user-images.githubusercontent.com/72078274/104126990-767b8a00-5357-11eb-90ce-f4264363f454.JPG">
